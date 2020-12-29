@@ -1,0 +1,11 @@
+{
+	"data_dir": "../data/origin_data/cifar10/cifar-10-python/cifar-10-batches-py",
+	"exp_dir": "../data/sampled_data/cifar10/EXP_50",
+	"checkpoint_dir": "../checkpoint/EXP_50",
+	"batch_size": 32,
+	"num_classes": 10,
+	"exp_number": 2,
+	"num_epochs": 100,
+	"batch_size": 8,
+	"aug_rate": 0.3
+}
